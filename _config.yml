@@ -16,6 +16,12 @@ github_repo: "portfolio"
 # Note: leave out the trailing / from this value. 
 url: "https://ShaunRoecker.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
+
+
+navigation:
+ - {title: "Projects", file: "/index.html"}
+ - {title: "About Me", file: "/about.md"}
+ - {title: "CV", file: "/about.md"}
 ###########################################################
 #########  Special Instructions for baseurl ###############
 #
