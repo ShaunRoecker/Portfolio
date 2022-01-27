@@ -45,8 +45,6 @@
   
 
   
-
-  
   
 
   
@@ -59,7 +57,7 @@
   
 
   
-      ,"page10": {
+      ,"page9": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://shaunroecker.github.io/portfolio/robots.txt",
