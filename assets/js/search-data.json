@@ -18,9 +18,7 @@
   
 
   
-
-  
-      ,"page2": {
+      ,"page1": {
           "title": "About Me",
           "content": "",
           "url": "https://shaunroecker.github.io/portfolio/about/",
@@ -31,7 +29,7 @@
   
 
   
-      ,"page3": {
+      ,"page2": {
           "title": "",
           "content": "Projects .",
           "url": "https://shaunroecker.github.io/portfolio/",
@@ -57,7 +55,7 @@
   
 
   
-      ,"page9": {
+      ,"page8": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://shaunroecker.github.io/portfolio/robots.txt",
