@@ -33,7 +33,7 @@
   
       ,"page2": {
           "title": "About Me",
-          "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "",
           "url": "https://shaunroecker.github.io/portfolio/about/",
           "relUrl": "/about/",
           "date": ""
