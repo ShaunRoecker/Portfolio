@@ -16,17 +16,6 @@
 
   
       "page1": {
-          "title": "About Me",
-          "content": "",
-          "url": "https://shaunroecker.github.io/portfolio/about/",
-          "relUrl": "/about/",
-          "date": ""
-      }
-      
-  
-
-  
-      ,"page2": {
           "title": "",
           "content": "Projects .",
           "url": "https://shaunroecker.github.io/portfolio/",
@@ -52,7 +41,7 @@
   
 
   
-      ,"page8": {
+      ,"page7": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://shaunroecker.github.io/portfolio/robots.txt",
